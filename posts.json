@@ -3,8 +3,8 @@
         {
                 "id": "c200",
                 "name": "Sasa Ilic",
-                "email": "sale@gmail.com",
-                "address": "xx-xx-xxxx,x - street, x - country",
+                "email": "Ovdje ce biti ispisan naslov",
+                "address": "Ovdje ce biti ispisan neki tekst o Sasi Ilicu.",
                 "gender" : "male",
                 "phone": {
                     "mobile": "+91 0000000000",
