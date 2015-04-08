@@ -2,6 +2,7 @@
     "contacts": [
         {
                 "id": "c200",
+                "title": "Naslov teksta"
                 "name": "Vladimir Vujasinovic",
                 "email": "vujas@gmail.com",
                 "address": "Ovdje ce biti ispisan neki tekst o Sasi Ilicu.",
