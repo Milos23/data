@@ -17,6 +17,8 @@
         },
         {
                 "id": "c201",
+                "title": "Aleksandar Pavlovic",
+                "text": "Ovo je neki tekst, u ovom dijelu ekrana bice ispisan neki tekst o igracu kosarkaskog kluba Partizan, Aleksandru Pavlovicu",
                 "name": "Johnny Depp",
                 "email": "johnny_depp@gmail.com",
                 "address": "xx-xx-xxxx,x - street, x - country",
