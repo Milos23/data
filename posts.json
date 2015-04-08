@@ -3,8 +3,8 @@
         {
                 "id": "c200",
                 
-                "title": "Sasa Ilic",
-                "text": "Ovo je neki tekst, u ovom dijelu ekrana bice ispisan neki tekst o kapitenu fudbalskog kluba Partizan, Sasi Ilicu",
+                "title": "Milenko Tepic",
+                "text": "Ovo je neki tekst, u ovom dijelu ekrana bice ispisan neki tekst o igracu kosarkaskog kluba Partizan, Milenku Tepicu.",
                 "name": "Ravi Tamada",
                 "email": "ravi@gmail.com",
                 "address": "xx-xx-xxxx,x - street, x - country",
@@ -17,8 +17,8 @@
         },
         {
                 "id": "c201",
-                "title": "Aleksandar Pavlovic",
-                "text": "Ovo je neki tekst, u ovom dijelu ekrana bice ispisan neki tekst o igracu kosarkaskog kluba Partizan, Aleksandru Pavlovicu",
+                "title": "Dragan Milosavljevic",
+                "text": "Ovo je neki tekst, u ovom dijelu ekrana bice ispisan neki tekst o kapitenu kosarkaskog kluba Partizan, Draganu Milosavljevicu",                
                 "name": "Johnny Depp",
                 "email": "johnny_depp@gmail.com",
                 "address": "xx-xx-xxxx,x - street, x - country",
