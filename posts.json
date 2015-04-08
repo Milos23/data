@@ -1,30 +1,9 @@
 {
     "contacts": [
         {
-                "id": "c200",
-                "title": "Naslov teksta",
-                "text": "Ovo je neki tekst, u ovom dijelu ekrana bice ispisan neki tekst",
-                "name": "Vladimir Vujasinovic",
-                "email": "vujas@gmail.com",
-                "address": "Ovdje ce biti ispisan neki tekst o Sasi Ilicu.",
-                "gender" : "male",
-                "phone": {
-                    "mobile": "+91 0000000000",
-                    "home": "00 000000",
-                    "office": "00 000000"
+                
+                "title": "Sasa Ilic",
+                "text": "Ovo je neki tekst, u ovom dijelu ekrana bice ispisan neki tekst o kapitenu fudbalskog kluba Partizan, Sasi Ilicu",
                 }
-        },
-        {
-                "id": "c201",
-                "name": "Milan Macvan",
-                "email": "mmacvan@gmail.com",
-                "address": "xx-xx-xxxx,x - street, x - country",
-                "gender" : "male",
-                "phone": {
-                    "mobile": "+91 0000000000",
-                    "home": "00 000000",
-                    "office": "00 000000"
-                }
-        },
   ]
 }
