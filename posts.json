@@ -3,31 +3,13 @@
         {
                 "id": "c200",
                 
-                "title": "Milan Lukac",
-                "text": "Ovo je neki tekst, u ovom dijelu ekrana bice ispisan neki tekst o golmanu fudbalskog kluba Partizan, Milanu Lukacu.",
-                "name": "Ravi Tamada",
-                "email": "ravi@gmail.com",
-                "address": "xx-xx-xxxx,x - street, x - country",
-                "gender" : "male",
-                "phone": {
-                    "mobile": "+91 0000000000",
-                    "home": "00 000000",
-                    "office": "00 000000"
-                }
+                "title": "Aleksandar Djordjevic",
+                "text": "Ovo je neki tekst, u ovom dijelu ekrana bice ispisan neki tekst o nekadasnjem asu kosarkaskog kluba Partizan, Aleksandru Djordjevicu.",
         },
         {
                 "id": "c201",
-                "title": "Vladimir Vujasinovic",
-                "text": "Ovo je neki tekst, u ovom dijelu ekrana bice ispisan neki tekst o treneru vaterpolo kluba Partizan, Vladimiru Vujasinovicu.",                
-                "name": "Johnny Depp",
-                "email": "johnny_depp@gmail.com",
-                "address": "xx-xx-xxxx,x - street, x - country",
-                "gender" : "male",
-                "phone": {
-                    "mobile": "+91 0000000000",
-                    "home": "00 000000",
-                    "office": "00 000000"
-                }
+                "title": "Ivica Kralj",
+                "text": "Ovo je neki tekst, u ovom dijelu ekrana bice ispisan neki tekst o nekadasnjem asu fudbalskog kluba Partizan, Ivici Kralju.",
         },
   ]
 }
