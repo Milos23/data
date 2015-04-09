@@ -5,11 +5,30 @@
                 
                 "title": "Predrag Danilovic",
                 "text": "Ovo je neki tekst, u ovom dijelu ekrana bice ispisan neki tekst o nekadasnjem asu kosarkaskog kluba Partizan, Predragu Danilovicu.",    
-                },
+                "name": "Ravi Tamada",
+                "email": "ravi@gmail.com",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "gender" : "male",
+                "phone": {
+                    "mobile": "+91 0000000000",
+                    "home": "00 000000",
+                    "office": "00 000000"
+                }
+        },
+            
         {
                 "id": "c201",
                 "title": "Ljubinko Drulovic",
                 "text": "Ovo je neki tekst, u ovom dijelu ekrana bice ispisan neki tekst o nekadasnjem asu fudbalskog kluba Partizan, ILjubinku Drulovicu.",
-                },
+               "name": "Ravi Tamada",
+                "email": "ravi@gmail.com",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "gender" : "male",
+                "phone": {
+                    "mobile": "+91 0000000000",
+                    "home": "00 000000",
+                    "office": "00 000000"
+                }
+        },
   ]
 }
