@@ -2,14 +2,14 @@
     "contacts": [
         {
                 "id": "c200",
-                "titleLink": "Eminem - Monster ft Rihanna",
-                "link": "https://www.youtube.com/watch?v=EHkozMIXZ8w"
+                "titleLink": "Wiz Khalifa - See You Again ft. Charlie Puth",
+                "link": "https://www.youtube.com/watch?v=RgKAFK5djSk"
         },
             
         {
                 "id": "c201",
-                "titleLink": "John Legend - All of Me",
-                "link": "https://www.youtube.com/watch?v=450p7goxZqg"
+                "titleLink": "Gotye - Somebody That I Used To Know feat. Kimbra",
+                "link": "https://www.youtube.com/watch?v=8UVNT4wvIGY"
         },
   ]
 }
