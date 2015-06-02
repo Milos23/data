@@ -3,52 +3,20 @@
         {
                 "id": "c200",
                 
-                "title": "Stevan Jovetic",
-                "text": "2014/15:
-
-Nosioci: Seltik, Sparta Prag, PARTIZAN, Debrecin, Slovan Bratislava i Ventspils
-
-Nepovlašćeni: Malme (Švedska), Rejkjavik (Island), Nju Sents (Vels), Kliftonvil (Severna Irska), HB Toršavn (Farska Ostrva) / Linkoln (Gibraltar) i Santa Koloma (Andora) / Banants (Jermenija)
-
-– Mogli smo otići i na krajnji evropski sever (Island, Švedska ili Farska Ostrva), gde smo na kraju i otišli (Farska Ostrva), ali smo mogli i na zapad Evrope – na britansko Ostrvo (Vels ili Severna Irska) ili u Andoru (Jermenija na istoku je bila opcija jedino ukoliko bi nosilac iz Andore ispao u „Q1“ od šampiona Jermenije).
-
-– U drugim podgrupama su, recimo i to, kao nepovlašćene ekipe iz regiona u kojeg bi mogli svrstati Srbiju (jugoistok Evrope) ostali Zrinjski (BIH), Sutjeska (Crna Gora), Rabotnički (Makedonija), Skenderbeg (Albanija), Valeta (Malta) i Dinamo Tbilisi (Gruzija).
-
- 
-
-2013/14:
-
-Nosioci: BATE, Dinamo Zagreb, PARTIZAN, Slovan Bratislava, Makabi Tel Aviv i Dinamo Tbilisi
-
-Nepovlašćeni: Đer (Mađarska), Ludogorec (Bugarska), Šahtjor Karaganda (Kazahstan), Strejmur (Farska Ostrva) / Lusitanos (Andora), Tre Pene (San Marino) / Širak Đumri (Jermenija) i Fola Eš (Luksemburg)
-
-– I ove godine smo mogli da odemo od severa Evrope (Farska Ostrva), preko zapadne Evrope (San Marino i Luksemburg) i srednje Evrope (Mađarska), pa sve do bližeg (Bugarska) ili daljeg „istoka“ koji geografski čak više i ne pripada Evropi (Kazahstan). U Jermeniju smo otišli samo zato što je tamošnji šampion u „Q1“ izbacio nosioca u žrebu tog kola (šampiona San Marina).
-
-– Ovaj put su u drugim podgrupama ostale sledeće ekipe iz regiona jugoistočne Evrope: Željezničar (BIH), Skenderbeg (Albanija), Sutjeska (Crna Gora), Vardar (Makedonija) i Birkirkara (Malta).",    
-                "name": "Ravi Tamada",
-                "email": "ravi@gmail.com",
-                "address": "xx-xx-xxxx,x - street, x - country",
-                "gender" : "male",
-                "phone": {
-                    "mobile": "+91 0000000000",
-                    "home": "00 000000",
-                    "office": "00 000000"
-                }
+                "title": "Android text",
+                "text": Sometimes we do experiments by integrating 3rd party libraries in our Android apps for network calls . Now I am going to show you one of my examples on how to add dynamically items in a Gridview using  Volley , Picasso and AsyncTask. In android the most popular problem we face is UI lagging when we try to add items dynamically in a listview or a Gridview.  Allow me to show you how to overcome this problem. I have created the project using Android Studio. Of course, you can use any IDE as there are no dependencies.
+Want complete source code,then get it from here.
+Here is my build.gradle file"
         },
             
         {
                 "id": "c201",
-                "title": "Zarko Paspalj",
-                "text": "U ovom dijelu ekrana bice ispisan tekst o nekadasnjem kosarkasu Partizana i velikoj legendi, Zarku Paspalju.",
-               "name": "Ravi Tamada",
-                "email": "ravi@gmail.com",
-                "address": "xx-xx-xxxx,x - street, x - country",
-                "gender" : "male",
-                "phone": {
-                    "mobile": "+91 0000000000",
-                    "home": "00 000000",
-                    "office": "00 000000"
-                }
+                "title": "Android text 2",
+                "text": "Most of popular Android applications are having pull to refresh options, you might have used it. When pull down the screen the loading symbol appears and loading content become visible on top the application contents. Then the new contents will be fetched. This kind of pull to refresh has becoming out of date. Because it occupies 1/8 th part of screen and also a inconvinent way of processing.
+
+Lets use the new kind of pull to refresh using SwipeRefreshLayout. you can see this pull to refresh in foursquare, google applications, hike. Its pretty awesome right ?.
+
+This article will help you learn those kind of pull to refresh. It is very smooth and easy to implement. And it will support for the lower versions also (from v2.3). The below screen shot will recall the new kind of refresh."
         },
   ]
 }
