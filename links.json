@@ -2,7 +2,6 @@
     "contacts": [
         {
                 "id": "c200",
-                
                 "titleLink": "Eminem - Monster ft Rihanna",
                 "link": "https://www.youtube.com/watch?v=EHkozMIXZ8w"
         },
@@ -10,16 +9,7 @@
         {
                 "id": "c201",
                 "titleLink": "John Legend - All of Me",
-                "link": "https://www.youtube.com/watch?v=450p7goxZqg",
-               "name": "Ravi Tamada",
-                "email": "ravi@gmail.com",
-                "address": "xx-xx-xxxx,x - street, x - country",
-                "gender" : "male",
-                "phone": {
-                    "mobile": "+91 0000000000",
-                    "home": "00 000000",
-                    "office": "00 000000"
-                }
+                "link": "https://www.youtube.com/watch?v=450p7goxZqg"
         },
   ]
 }
