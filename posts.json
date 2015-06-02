@@ -4,7 +4,7 @@
                 "id": "c200",
                 
                 "title": "Android text",
-                "text": Sometimes we do experiments by integrating 3rd party libraries in our Android apps for network calls . Now I am going to show you one of my examples on how to add dynamically items in a Gridview using  Volley , Picasso and AsyncTask. In android the most popular problem we face is UI lagging when we try to add items dynamically in a listview or a Gridview.  Allow me to show you how to overcome this problem. I have created the project using Android Studio. Of course, you can use any IDE as there are no dependencies.
+                "text": "Sometimes we do experiments by integrating 3rd party libraries in our Android apps for network calls . Now I am going to show you one of my examples on how to add dynamically items in a Gridview using  Volley , Picasso and AsyncTask. In android the most popular problem we face is UI lagging when we try to add items dynamically in a listview or a Gridview.  Allow me to show you how to overcome this problem. I have created the project using Android Studio. Of course, you can use any IDE as there are no dependencies.
 Want complete source code,then get it from here.
 Here is my build.gradle file"
         },
